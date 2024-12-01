@@ -1,0 +1,12 @@
+C:\Users\ASUS\RiderProjects\CarrotCoder\CarrotCoder\bin\Debug\net8.0\CarrotCoder.deps.json
+C:\Users\ASUS\RiderProjects\CarrotCoder\CarrotCoder\bin\Debug\net8.0\CarrotCoder.dll
+C:\Users\ASUS\RiderProjects\CarrotCoder\CarrotCoder\bin\Debug\net8.0\CarrotCoder.pdb
+C:\Users\ASUS\RiderProjects\CarrotCoder\CarrotCoder\obj\Debug\net8.0\CarrotCoder.csproj.AssemblyReference.cache
+C:\Users\ASUS\RiderProjects\CarrotCoder\CarrotCoder\obj\Debug\net8.0\CarrotCoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\RiderProjects\CarrotCoder\CarrotCoder\obj\Debug\net8.0\CarrotCoder.AssemblyInfoInputs.cache
+C:\Users\ASUS\RiderProjects\CarrotCoder\CarrotCoder\obj\Debug\net8.0\CarrotCoder.AssemblyInfo.cs
+C:\Users\ASUS\RiderProjects\CarrotCoder\CarrotCoder\obj\Debug\net8.0\CarrotCoder.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\RiderProjects\CarrotCoder\CarrotCoder\obj\Debug\net8.0\CarrotCoder.dll
+C:\Users\ASUS\RiderProjects\CarrotCoder\CarrotCoder\obj\Debug\net8.0\refint\CarrotCoder.dll
+C:\Users\ASUS\RiderProjects\CarrotCoder\CarrotCoder\obj\Debug\net8.0\CarrotCoder.pdb
+C:\Users\ASUS\RiderProjects\CarrotCoder\CarrotCoder\obj\Debug\net8.0\ref\CarrotCoder.dll
